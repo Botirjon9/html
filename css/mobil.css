@@ -1,0 +1,14 @@
+@media screen and (max-width: 600px){
+	#first_global_id{
+        width: 95%;
+    }
+    .menyu_name_limk{
+            /* border: 2px solid black; */
+    width: 95%;
+    height: 58px;
+    
+    display: flex;
+    flex-direction: row;
+}
+    
+}
